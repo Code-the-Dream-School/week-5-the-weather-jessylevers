@@ -1,0 +1,11 @@
+1. Async & Await => https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+        a.  It's best to add await to your promises *await only works inside an async function* 
+        b. Understanding await:
+            https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await 
+
+2. Try Catch Throw => https://www.w3schools.com/js/js_errors.asp
+
+
+Feedback:
+This assignment was much easier to understand, I think it's because it mostly deals with JavaScript. There's obvious opportunity for styling, however from a purely functional standpoint it's just JavaScript and of course understanding async. 
+I did get stuck at one point because I didn't initially think to use await. After looking at the example and looking into await documentation I was able see what i was doing wrong and how to make my life easier. 
